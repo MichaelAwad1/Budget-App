@@ -1,4 +1,1 @@
-
-App link:
-
-https://michaelawad1.github.io/Budget-App/
+A simple budget webapp to calculate the total income and expenses of one user on client side using JS. 
